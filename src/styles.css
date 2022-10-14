@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+a:hover, a:focus, a:active {
+    color: #4ACCD1 !important;
+}
+body{
+    padding: 0 !important;
+    margin: 0 !important;
+}
